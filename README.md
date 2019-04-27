@@ -1,0 +1,2 @@
+# chessLab
+Experimental chess engine
